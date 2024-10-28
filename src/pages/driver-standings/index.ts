@@ -1,0 +1,1 @@
+export { DriverStandingsPage } from "./DriverStandings";
